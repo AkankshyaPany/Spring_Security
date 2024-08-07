@@ -1,13 +1,24 @@
 <h1 align="center">SPRING SECURITY🔥</h1>
 IMPORTANCE OF SECURITY
-- [x] Privacy Protection
+-------------------------------
+
+- [x] Privacy
 - [x] Trust
 - [x] Integrity
-- [x] Compilance
+- [x] Compliance
+
 
 ##Authentication :
 
+- [x] [1] course api w/o database
+
+
+
 ##Authorisation :
+
+- [x] [1] course api w/o database
+
+
 
 Spring Security with JWT Authentication
 -----------------------------------------
